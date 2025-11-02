@@ -1,5 +1,4 @@
 <h1>Listar Funcionário</h1>
-<h1>Listar Funcionário</h1>
 <?php
     $sql = "SELECT * FROM funcionario";
 
